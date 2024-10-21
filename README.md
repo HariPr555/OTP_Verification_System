@@ -16,8 +16,8 @@ This Python project focuses on implementing an OTP verification system. The prim
   - Error Handling and Feedback
 
 # Technical Stacks
-- Frameworks : SMTPLIB, MIME, RANDOM, TIME
-- GUI : TKINTER
+- Frameworks : SMTPLib, Mime, Random, Time
+- GUI : Tkinter
 - Email Protocol : SMTP
 
 # OTP Verification Workflow
